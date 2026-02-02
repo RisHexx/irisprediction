@@ -1,4 +1,5 @@
 ## 🌸 Iris Flower Prediction Web App
+![App Screenshot](app_screenshot.png)
 
 This project is a machine learning web application that predicts the **species of Iris flowers** using **Logistic Regression**.
 
